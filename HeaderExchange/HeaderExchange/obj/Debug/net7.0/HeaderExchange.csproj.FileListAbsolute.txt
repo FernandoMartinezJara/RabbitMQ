@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/bin/Debug/net7.0/HeaderExchange
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/bin/Debug/net7.0/HeaderExchange.deps.json
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/bin/Debug/net7.0/HeaderExchange.runtimeconfig.json
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/bin/Debug/net7.0/HeaderExchange.dll
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/bin/Debug/net7.0/HeaderExchange.pdb
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.dll
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/refint/HeaderExchange.dll
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.pdb
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/HeaderExchange.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/obj/Debug/net7.0/ref/HeaderExchange.dll

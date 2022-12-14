@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{2C524369-DC8A-44CE-85CE-824442061269}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DefaultExchange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DefaultExchange/Program.cs">
+    <Files>
+      <File FileName="DefaultExchange/Program.cs" Line="18" Column="1" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DefaultExchange" expanded="True">
+            <Node name="DefaultExchange" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

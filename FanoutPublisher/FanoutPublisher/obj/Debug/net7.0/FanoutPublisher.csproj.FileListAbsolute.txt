@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/bin/Debug/net7.0/FanoutPublisher
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/bin/Debug/net7.0/FanoutPublisher.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/bin/Debug/net7.0/FanoutPublisher.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/bin/Debug/net7.0/FanoutPublisher.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/bin/Debug/net7.0/FanoutPublisher.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/refint/FanoutPublisher.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/FanoutPublisher.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutPublisher/obj/Debug/net7.0/ref/FanoutPublisher.dll

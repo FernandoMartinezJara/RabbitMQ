@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/bin/Debug/net7.0/Push&Pull
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/bin/Debug/net7.0/Push&Pull.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/bin/Debug/net7.0/Push&Pull.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/bin/Debug/net7.0/Push&Pull.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/bin/Debug/net7.0/Push&Pull.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/refint/Push&Pull.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/Push&Pull.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/obj/Debug/net7.0/ref/Push&Pull.dll

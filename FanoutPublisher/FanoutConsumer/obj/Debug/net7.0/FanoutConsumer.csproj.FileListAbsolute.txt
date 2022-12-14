@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/bin/Debug/net7.0/FanoutConsumer
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/bin/Debug/net7.0/FanoutConsumer.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/bin/Debug/net7.0/FanoutConsumer.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/bin/Debug/net7.0/FanoutConsumer.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/bin/Debug/net7.0/FanoutConsumer.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/refint/FanoutConsumer.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/FanoutConsumer.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/obj/Debug/net7.0/ref/FanoutConsumer.dll

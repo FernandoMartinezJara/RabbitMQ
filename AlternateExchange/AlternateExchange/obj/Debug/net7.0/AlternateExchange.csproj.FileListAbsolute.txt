@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/bin/Debug/net7.0/AlternateExchange
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/bin/Debug/net7.0/AlternateExchange.deps.json
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/bin/Debug/net7.0/AlternateExchange.runtimeconfig.json
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/bin/Debug/net7.0/AlternateExchange.dll
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/bin/Debug/net7.0/AlternateExchange.pdb
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.AssemblyInfo.cs
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.csproj.CopyComplete
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.dll
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/refint/AlternateExchange.dll
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.pdb
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/AlternateExchange.genruntimeconfig.cache
+/Users/fernandomartinez/Projects/AlternateExchange/AlternateExchange/obj/Debug/net7.0/ref/AlternateExchange.dll

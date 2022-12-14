@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange", "DirectExchange\DirectExchange.csproj", "{4FE5903D-ED9A-4735-B547-39F5FC3B9463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE5903D-ED9A-4735-B547-39F5FC3B9463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE5903D-ED9A-4735-B547-39F5FC3B9463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE5903D-ED9A-4735-B547-39F5FC3B9463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE5903D-ED9A-4735-B547-39F5FC3B9463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61665370-34CD-44F5-BC55-A94BD1EC92D6}
+	EndGlobalSection
+EndGlobal

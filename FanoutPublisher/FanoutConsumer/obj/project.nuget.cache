@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qK9hCtl8qu6VgOQFchh9789fKHZxT3EcETZYYPQSjfSdtR5ChGXgLrOK5NDlJucJxL4XkQhEEXe+riDT5USTlA==",
+  "success": true,
+  "projectFilePath": "/Users/fernandomartinez/Desktop/RabbitMQ/FanoutPublisher/FanoutConsumer/FanoutConsumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/fernandomartinez/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/fernandomartinez/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/fernandomartinez/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

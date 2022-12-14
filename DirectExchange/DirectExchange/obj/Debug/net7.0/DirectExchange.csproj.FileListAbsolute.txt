@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/bin/Debug/net7.0/DirectExchange
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/bin/Debug/net7.0/DirectExchange.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/bin/Debug/net7.0/DirectExchange.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/bin/Debug/net7.0/DirectExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/bin/Debug/net7.0/DirectExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/refint/DirectExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/DirectExchange.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/obj/Debug/net7.0/ref/DirectExchange.dll

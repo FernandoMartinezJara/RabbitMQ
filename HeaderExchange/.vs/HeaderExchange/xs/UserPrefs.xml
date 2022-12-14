@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{254E4ED6-1A67-4EBC-BBD2-CBF8ED64BBA5}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HeaderExchange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HeaderExchange/Program.cs">
+    <Files>
+      <File FileName="HeaderExchange/Program.cs" Line="22" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HeaderExchange" expanded="True">
+            <Node name="HeaderExchange" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/fernandomartinez/Desktop/HeaderExchange/HeaderExchange/Program.cs" relfile="HeaderExchange/Program.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

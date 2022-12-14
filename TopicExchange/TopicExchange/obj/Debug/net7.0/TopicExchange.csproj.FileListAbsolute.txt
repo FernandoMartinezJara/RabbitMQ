@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/bin/Debug/net7.0/TopicExchange
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/bin/Debug/net7.0/TopicExchange.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/bin/Debug/net7.0/TopicExchange.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/bin/Debug/net7.0/TopicExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/bin/Debug/net7.0/TopicExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/refint/TopicExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/TopicExchange.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/TopicExchange/TopicExchange/obj/Debug/net7.0/ref/TopicExchange.dll

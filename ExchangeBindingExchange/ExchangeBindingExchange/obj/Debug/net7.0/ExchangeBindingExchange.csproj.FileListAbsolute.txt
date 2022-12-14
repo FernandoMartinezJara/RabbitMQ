@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/bin/Debug/net7.0/ExchangeBindingExchange
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/bin/Debug/net7.0/ExchangeBindingExchange.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/bin/Debug/net7.0/ExchangeBindingExchange.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/bin/Debug/net7.0/ExchangeBindingExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/bin/Debug/net7.0/ExchangeBindingExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/refint/ExchangeBindingExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ExchangeBindingExchange.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/ExchangeBindingExchange/ExchangeBindingExchange/obj/Debug/net7.0/ref/ExchangeBindingExchange.dll

@@ -1,0 +1,17 @@
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/bin/Debug/net7.0/DefaultExchange
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/bin/Debug/net7.0/DefaultExchange.deps.json
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/bin/Debug/net7.0/DefaultExchange.runtimeconfig.json
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/bin/Debug/net7.0/DefaultExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/bin/Debug/net7.0/DefaultExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.csproj.AssemblyReference.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.AssemblyInfoInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.AssemblyInfo.cs
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.csproj.CoreCompileInputs.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.csproj.CopyComplete
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/refint/DefaultExchange.dll
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.pdb
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/DefaultExchange.genruntimeconfig.cache
+/Users/fernandomartinez/Desktop/RabbitMQ/DefaultExchange/DefaultExchange/obj/Debug/net7.0/ref/DefaultExchange.dll

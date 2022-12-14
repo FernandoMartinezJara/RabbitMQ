@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bYsa6V9m1RunE23KB/Yj0vOe9X/9OnIgqAQaCgH+ccLPoHAbEOjDNM0RMMhqSVJnZMVHjMymA5BNUM35xOOUbQ==",
+  "success": true,
+  "projectFilePath": "/Users/fernandomartinez/Desktop/RabbitMQ/DirectExchange/DirectExchange/DirectExchange.csproj",
+  "expectedPackageFiles": [
+    "/Users/fernandomartinez/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/fernandomartinez/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/fernandomartinez/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

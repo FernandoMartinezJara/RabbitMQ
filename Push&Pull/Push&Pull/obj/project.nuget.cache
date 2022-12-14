@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHZ7tulPoXALnqeTvkN40S38P9SwIPHd/abaW/ONsT2B+BJJs+rMkBQAfCp7Vr0P69gsgpmSwBzVH1Pf72Sd2g==",
+  "success": true,
+  "projectFilePath": "/Users/fernandomartinez/Desktop/RabbitMQ/Push&Pull/Push&Pull/Push&Pull.csproj",
+  "expectedPackageFiles": [
+    "/Users/fernandomartinez/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/fernandomartinez/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/fernandomartinez/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
